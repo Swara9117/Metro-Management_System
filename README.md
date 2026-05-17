@@ -341,7 +341,7 @@ Example:
 ## 1️⃣ Clone Repository
 
 ```bash
-[git clone https://github.com/Swara9117/Metro-Management_System]
+git clone https://github.com/Swara9117/Metro-Management_System
 ```
 
 ---
